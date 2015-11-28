@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\bin\Debug\16HalfSum.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\bin\Debug\16HalfSum.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\bin\Debug\16HalfSum.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\obj\Debug\16HalfSum.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\obj\Debug\16HalfSum.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\16HalfSum\obj\Debug\16HalfSum.csprojResolveAssemblyReference.cache

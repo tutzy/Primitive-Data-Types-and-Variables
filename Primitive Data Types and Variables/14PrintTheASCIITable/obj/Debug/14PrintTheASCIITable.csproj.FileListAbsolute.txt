@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.pdb

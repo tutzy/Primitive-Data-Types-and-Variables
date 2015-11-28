@@ -1,0 +1,11 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache

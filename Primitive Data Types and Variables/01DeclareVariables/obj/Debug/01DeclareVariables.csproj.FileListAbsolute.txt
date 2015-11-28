@@ -1,0 +1,12 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe.config
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.exe
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.pdb
+E:\SoftUni\homeworkSoftUni\Primitive Data Types and Variables\Projects\Primitive Data Types and Variables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache

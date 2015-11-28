@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.csprojResolveAssemblyReference.cache

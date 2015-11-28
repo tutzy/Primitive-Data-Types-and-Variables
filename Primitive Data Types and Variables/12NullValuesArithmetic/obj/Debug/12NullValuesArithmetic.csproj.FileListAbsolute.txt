@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+D:\tutzy\C#\Homework\Primitive Data Types and Variables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb
