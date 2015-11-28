@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\bin\Debug\10.PointInsideACircleOutsideOfARectangle.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\bin\Debug\10.PointInsideACircleOutsideOfARectangle.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\bin\Debug\10.PointInsideACircleOutsideOfARectangle.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\obj\Debug\10.PointInsideACircleOutsideOfARectangle.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\obj\Debug\10.PointInsideACircleOutsideOfARectangle.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\10.PointInsideACircleOutsideOfARectangle\obj\Debug\10.PointInsideACircleOutsideOfARectangle.pdb

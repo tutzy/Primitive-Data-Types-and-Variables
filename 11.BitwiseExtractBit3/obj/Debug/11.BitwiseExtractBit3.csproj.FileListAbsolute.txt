@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

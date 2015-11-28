@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\01.Odd or Even Integers.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.pdb

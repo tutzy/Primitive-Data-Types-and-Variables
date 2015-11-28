@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

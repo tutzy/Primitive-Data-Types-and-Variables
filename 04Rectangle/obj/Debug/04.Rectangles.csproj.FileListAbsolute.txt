@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

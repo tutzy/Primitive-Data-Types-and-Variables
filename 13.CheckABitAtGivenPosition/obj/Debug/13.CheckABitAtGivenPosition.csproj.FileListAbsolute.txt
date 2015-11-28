@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

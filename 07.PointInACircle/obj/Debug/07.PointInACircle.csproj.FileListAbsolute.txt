@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\Operators Expressions and Statements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\tutzy\C#\Homework\Operators Expressions and Statements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\tutzy\C#\Homework\Operators Expressions and Statements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\tutzy\C#\Homework\Operators Expressions and Statements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
